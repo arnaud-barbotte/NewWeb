@@ -3,7 +3,7 @@
 This is the homepage of my Markdown-based website.
 
 # Menu
--
+---
 [about](#about) [🍎](https://www.apple.com/fr)
 
 Check 
@@ -32,4 +32,4 @@ me
 
 
 
-### about
+###about
