@@ -3,8 +3,6 @@ This is the homepage of my Markdown-based website.
 
 <!--[apple](https://www.apple.com/fr) [MacBook](#MacBook) [iMac/MacMini](#iMac/MacMini) [iPhone](#iPhone)-->
 
-| Menu |
-| --- |
 | [apple](https://www.apple.com/fr)  
 | [MacBook](#MacBook)
 | [iMac/MacMini](#iMac/MacMini)  
@@ -13,10 +11,6 @@ This is the homepage of my Markdown-based website.
 >Check this link if you want see more about me
 
 💻
-
-Inline math expression example: $\sqrt{3x-1}+(1+x)^2$
-
-
 
 Some basic Git commands are:
 
