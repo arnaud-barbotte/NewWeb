@@ -1,0 +1,5 @@
+[user]
+	email = arnobarbotte@gmail.com
+	name = arnaud-barbotte
+[core]
+	excludesFile = /Users/arnaudbarbotte/.gitignore
