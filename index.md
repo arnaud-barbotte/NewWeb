@@ -3,8 +3,8 @@
 This is the homepage of my Markdown-based website.
 
 # Menu
----
-[about](#about) [🍎](https://www.apple.com/fr)
+--
+[🍎](https://www.apple.com/fr)[💻](MacBook) [🖥️](iMac) [📱](iPhone)
 
 Check 
 
