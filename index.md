@@ -1,6 +1,5 @@
----
-title: "navbar for stackoverflow"
----
+# Welcome to My Website
+
 This is the homepage of my Markdown-based website.
 
 ## About
