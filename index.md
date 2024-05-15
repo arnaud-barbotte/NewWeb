@@ -10,16 +10,7 @@ This is the homepage of my Markdown-based website.
 | [iMac/MacMini](#iMac/MacMini)  
 | [iPhone](#iPhone)
 
->Check 
->this 
->link
->if 
->you
->want
->see
->more
->about
->me
+>Check this link if you want see more about me
 
 💻
 
