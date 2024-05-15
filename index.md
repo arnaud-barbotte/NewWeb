@@ -4,7 +4,7 @@ This is the homepage of my Markdown-based website.
 
 # Menu
 --
-[🍎](https://www.apple.com/fr)[💻](MacBook) [🖥️](iMac) [📱](iPhone)
+[apple](https://www.apple.com/fr)[MacBook](#MacBook) [iMac/MacMini](#iMac/MacMini) [iPhone](#iPhone)
 
 Check 
 
@@ -25,11 +25,3 @@ more
 about
 
 me
-
-
-
-
-
-
-
-###about
