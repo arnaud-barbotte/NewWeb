@@ -1,7 +1,14 @@
 This is the homepage of my Markdown-based website.
 
 
-[apple](https://www.apple.com/fr) [MacBook](#MacBook) [iMac/MacMini](#iMac/MacMini) [iPhone](#iPhone)
+<!--[apple](https://www.apple.com/fr) [MacBook](#MacBook) [iMac/MacMini](#iMac/MacMini) [iPhone](#iPhone)-->
+
+| Menu |
+| --- |
+| [apple](https://www.apple.com/fr)  
+| [MacBook](#MacBook)
+| [iMac/MacMini](#iMac/MacMini)  
+| [iPhone](#iPhone)
 
 >Check 
 >this 
@@ -16,7 +23,7 @@ This is the homepage of my Markdown-based website.
 
 💻
 
-
+Inline math expression example: $\sqrt{3x-1}+(1+x)^2$
 
 
 
@@ -31,4 +38,5 @@ git commit
 ```
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+#Arnaud © 
+> Written in markdown, self hosted with SSH Git [GitHub Pages](https://pages.github.com/).
