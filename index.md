@@ -1,4 +1,4 @@
-#My NEW Website
+# My NEW Website
 
 This is the homepage of my Markdown-based website.
 
@@ -26,6 +26,12 @@ This is the homepage of my Markdown-based website.
 >me
 
 --
+
+💻
+
+
+
+
 
 Some basic Git commands are:
 
