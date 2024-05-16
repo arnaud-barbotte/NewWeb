@@ -6,6 +6,7 @@ This is the homepage of my Markdown-based website.
 | [MacBook](#MacBook)
 | [iMac/MacMini](#iMac/MacMini)  
 | [iPhone](#iPhone)
+| [About Me](aboutme.md)
 
 >Check this link if you want see more about me
 
