@@ -2,16 +2,22 @@ This is the homepage of my Markdown-based website.
 
 
 
-| [About Me](aboutme.md)| [apple](https://www.apple.com/fr)  
-|| [MacBook](#MacBook)
-|| [iMac/MacMini](#iMac/MacMini)  
-|| [iPhone](#iPhone)
+[apple](https://www.apple.com/fr)[MacBook](#MacBook) [iMac/MacMini](#iMac/MacMini)[iPhone](#iPhone)
 
 
->Check this link if you want see more about me
+>Check this link if you want see more about me [About Me](aboutme)
+
+some Git Command [here](#GitCommand)
 
 💻
 
+# [About Me](aboutme)
+
+
+
+
+
+# Git Command
 Some basic Git commands are:
 
 ```
