@@ -1,9 +1,8 @@
 This is the homepage of my Markdown-based website.
 
-#TEST
+# TEST
 
 
-<!--[apple](https://www.apple.com/fr) [MacBook](#MacBook) [iMac/MacMini](#iMac/MacMini) [iPhone](#iPhone)-->
 
 | [apple](https://www.apple.com/fr)  
 | [MacBook](#MacBook)
