@@ -17,7 +17,7 @@ git commit
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
-![logo](assets/AB.png =50)
+![logo](assets/AB.png =50x)
 
 
 
