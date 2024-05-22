@@ -1,11 +1,9 @@
 [Hello](hello) | [This is world](Test) | [Test Me](Here) | [Contact](contact)
 
 ### [HELLO](hello)
-![logo](/GitHub/Site/img/AB.png "logo")
+![logo](assets/AB.png)
 
 ### [THIS IS WORLD](Test)
-
-
 
 ### [Test Me](Here)
 # Git Command
