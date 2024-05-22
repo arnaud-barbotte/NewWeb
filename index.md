@@ -1,22 +1,13 @@
-This is the homepage of my Markdown-based website.
+[Hello](hello) | [This is world](Test) | [Test Me](Here) | 
+
+### [HELLO](hello)
+
+
+### [THIS IS WORLD](Test)
 
 
 
-[Apple](https://www.apple.com/fr) [MacBook](#MacBook) [iMac/MacMini](#iMac/MacMini) [iPhone](#iPhone)
-
-
->Check this link if you want see more about me [About Me](aboutme)
-
-some Git Command [here](#GitCommand)
-
-💻
-
-# [About Me](aboutme)
-
-
-
-
-
+### [Test Me](Here)
 # Git Command
 Some basic Git commands are:
 
@@ -27,4 +18,4 @@ git commit
 ```
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-###### Arnaud ©  Written in markdown, self hosted with SSH Git [GitHub Pages](https://pages.github.com/).
+##### Arnaud ©  Written in markdown.
