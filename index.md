@@ -1,6 +1,15 @@
+---
+Title:	Markdown Test File  
+Author: Olaf Wolkenhauer	
+Creator: DevonThink  
+Date:	June 25, 2022 
+Tags: [Markdown, YAML, tags, metadata]  
+Category: productivity  
+Subject: Tutorial
+---
 <!--[Hello](#hello) | [This is world](#Test) | [Test Me](#Here) | [Contact](#contact)-->
 
-### [menu](#menu) 	| [Hello](#hello) | [This is world](#Test) | [Test Me](#Here) | [Contact](#contact)
+### [](#menu) [Hello](#hello) | [This is world](#Test) | [Test Me](#Here) | [Contact](#contact)
 
 ### [HELLO](#hello)
 
